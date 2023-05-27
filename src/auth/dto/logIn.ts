@@ -1,4 +1,5 @@
 export class logInDto {
-  readonly password:string
+  readonly id: string
+  readonly email: string
   readonly username: string
 }
